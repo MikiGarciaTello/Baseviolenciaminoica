@@ -1,5 +1,5 @@
 # Baseviolenciaminoica
-Como explicamos en el trabajo, la siguiente base de datos está organizadda en: 
+Esta base de datos está hecha en el marco del Trabajo de Final de Grado del autor, cuyo objetivo es analizar el rol de la violencia en el mundo minoico palacial (ca. 1900-1450 ANE). Como se explica en el mismo, la siguiente base de datos está organizada en: 
 -	Evidencia: el descriptor más específico de cada muestra, como “fortificación”, “espada Tipo A”, “Trauma craneal”, entre otros. 
 -	Clase: categoría general a la que pertenece la evidencia y que es la base de nuestro análisis. Divididos en cuatro categorías de análisis: arquitectura defensiva , arma, representación y estigma
 -	Tipo de evidencia: Funciona como descriptor más general: medios (incluida la arquitectura defensiva), estigmas y representaciones. 
